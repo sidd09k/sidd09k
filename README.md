@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Siddharth Mehta
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on a e-commerce website
